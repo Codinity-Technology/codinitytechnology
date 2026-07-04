@@ -1,14 +1,13 @@
 # 👋 Welcome to Codinity Technology
 
-We help businesses build modern digital solutions.
+We build powerful digital solutions for businesses worldwide.
 
 ## 🚀 Our Services
 
 - 🌐 Website Development
 - 💻 Custom Software Development
-- 📱 Android & iOS App Development
-- ⚙ ERP Development
-- 👥 CRM Development
+- 📱 Mobile App Development
+- ⚙ ERP & CRM Solutions
 - 🎨 UI/UX Design
 - 📈 SEO & Digital Marketing
 
@@ -17,31 +16,26 @@ We help businesses build modern digital solutions.
 - Construction
 - Cleaning Services
 - Healthcare
-- Education
 - Real Estate
+- Education
 - Retail
 - Manufacturing
 - Startups
 
-## Why Choose Us?
+## Why Choose Codinity Technology?
 
-✔ Professional Team
+- ✅ Experienced Development Team
+- ✅ High-Quality Solutions
+- ✅ Affordable Pricing
+- ✅ On-Time Project Delivery
+- ✅ Long-Term Technical Support
 
-✔ Affordable Pricing
+## 📞 Contact Us
 
-✔ On-Time Delivery
+🌐 Website: https://codinity.com
 
-✔ 24/7 Support
+📱 WhatsApp: +91 93546 18011
 
-## Contact
+📧 Email: info@codinity.com
 
-🌐 Website
-https://codinity.com
-
-📧 Email
-info@codinity.com
-
-📱 WhatsApp
-+91 9354618011
-
-Thanks for visiting our profile.
+Thank you for visiting our GitHub profile!
