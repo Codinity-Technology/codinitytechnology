@@ -14,4 +14,4 @@ We help businesses grow with modern digital solutions.
 
 📱 WhatsApp: +91 93546 18011
 
-📧 Email: your@email.com
+📧 Email: info@codinity.com
